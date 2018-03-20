@@ -1,0 +1,318 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  19 MAR 2018 21:57
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**"Class 1 - Introduction to Coding.tex"
+(./Class 1 - Introduction to Coding.tex
+LaTeX2e <2015/01/01>
+Babel <3.9l> and hyphenation patterns for 79 languages loaded.
+(/usr/local/texlive/2015/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
+(/usr/local/texlive/2015/texmf-dist/tex/latex/base/size12.clo
+File: size12.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+) (/usr/local/texlive/2015/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2010/09/12 v5.6 Page Geometry
+ (/usr/local/texlive/2015/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+) (/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
+) (/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/ifvtex.sty
+Package: ifvtex 2010/03/01 v1.5 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+) (/usr/local/texlive/2015/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\Gm@cnth=\count87
+\Gm@cntv=\count88
+\c@Gm@tempcnt=\count89
+\Gm@bindingoffset=\dimen103
+\Gm@wd@mp=\dimen104
+\Gm@odd@mp=\dimen105
+\Gm@even@mp=\dimen106
+\Gm@layoutwidth=\dimen107
+\Gm@layoutheight=\dimen108
+\Gm@layouthoffset=\dimen109
+\Gm@layoutvoffset=\dimen110
+\Gm@dimlist=\toks15
+) (/usr/local/texlive/2015/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+ (/usr/local/texlive/2015/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2014/10/28 v1.0p Standard LaTeX Graphics (DPC,SPQR)
+ (/usr/local/texlive/2015/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+) (/usr/local/texlive/2015/texmf-dist/tex/latex/latexconfig/graphics.cfg
+File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
+)
+Package graphics Info: Driver file: pdftex.def on input line 94.
+ (/usr/local/texlive/2015/texmf-dist/tex/latex/pdftex-def/pdftex.def
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+ (/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+) (/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count90
+))
+\Gin@req@height=\dimen111
+\Gin@req@width=\dimen112
+) (/usr/local/texlive/2015/texmf-dist/tex/latex/lipsum/lipsum.sty
+Package: lipsum 2014/07/27 v1.3 150 paragraphs of Lorem Ipsum dummy text
+\c@lips@count=\count91
+) (/usr/local/texlive/2015/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+\fancy@headwidth=\skip43
+\f@ncyO@elh=\skip44
+\f@ncyO@erh=\skip45
+\f@ncyO@olh=\skip46
+\f@ncyO@orh=\skip47
+\f@ncyO@elf=\skip48
+\f@ncyO@erf=\skip49
+\f@ncyO@olf=\skip50
+\f@ncyO@orf=\skip51
+) (/Users/Chris/Desktop/KCCVancouver/Class/Week 1/.texpadtmp/Class 1 - Introduction to Coding.aux)
+\openout1 = `"Class 1 - Introduction to Coding.aux"'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: <default>
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(90.0pt, 434.295pt, 90.0pt)
+* v-part:(T,H,B)=(50.0pt, 694.96999pt, 50.0pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=434.295pt
+* \textheight=694.96999pt
+* \oddsidemargin=17.73001pt
+* \evensidemargin=17.73001pt
+* \topmargin=-59.26999pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=44.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+(/usr/local/texlive/2015/texmf-dist/tex/context/base/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count92
+\scratchdimen=\dimen113
+\scratchbox=\box26
+\nofMPsegments=\count93
+\nofMParguments=\count94
+\everyMPshowfont=\toks16
+\MPscratchCnt=\count95
+\MPscratchDim=\dimen114
+\MPnumerator=\count96
+\makeMPintoPDFobject=\count97
+\everyMPtoPDFconversion=\toks17
+) (/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO)
+ (/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+) (/usr/local/texlive/2015/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
+ (/usr/local/texlive/2015/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2010/08/19 v1.1 Manage graphics extensions (HO)
+ (/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+Package: kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
+)) (/usr/local/texlive/2015/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
+ (/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
+ (/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPEG,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 452.
+ (/usr/local/texlive/2015/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
+))
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <14.4> on input line 25.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 25.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 30.
+ (/usr/local/texlive/2015/texmf-dist/tex/latex/base/omscmr.fd
+File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 30.
+ [1
+
+{/usr/local/texlive/2015/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ¶ in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ¶ in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ñ in font cmr12!
+Missing character: There is no â in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ú in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ù in font cmr12!
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[2]
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ¶ in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ô in font cmr12!
+ <./Images/dragon1.png, id=13, 193.72375pt x 101.37875pt>
+File: ./Images/dragon1.png Graphic file (type png)
+ <use ./Images/dragon1.png>
+Package pdftex.def Info: ./Images/dragon1.png used on input line 151.
+(pdftex.def)             Requested size: 193.72327pt x 101.3785pt.
+ [3 <./Images/dragon1.png>] <./Images/dragon2.png, id=19, 192.72pt x 122.4575pt>
+File: ./Images/dragon2.png Graphic file (type png)
+ <use ./Images/dragon2.png>
+Package pdftex.def Info: ./Images/dragon2.png used on input line 156.
+(pdftex.def)             Requested size: 192.71951pt x 122.45718pt.
+ <./Images/dragon3.png, id=20, 81.30376pt x 171.64125pt>
+File: ./Images/dragon3.png Graphic file (type png)
+ <use ./Images/dragon3.png>
+Package pdftex.def Info: ./Images/dragon3.png used on input line 160.
+(pdftex.def)             Requested size: 81.30354pt x 171.64081pt.
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ô in font cmr12!
+ <./Images/dragon4.png, id=21, 146.5475pt x 102.3825pt>
+File: ./Images/dragon4.png Graphic file (type png)
+ <use ./Images/dragon4.png>
+Package pdftex.def Info: ./Images/dragon4.png used on input line 170.
+(pdftex.def)             Requested size: 146.54712pt x 102.38225pt.
+ [4 <./Images/dragon2.png> <./Images/dragon3.png> <./Images/dragon4.png>] <./Images/dragon5.png, id=28, 145.54375pt x 123.46124pt>
+File: ./Images/dragon5.png Graphic file (type png)
+ <use ./Images/dragon5.png>
+Package pdftex.def Info: ./Images/dragon5.png used on input line 175.
+(pdftex.def)             Requested size: 145.54338pt x 123.46092pt.
+ <./Images/dragon6.png, id=29, 182.6825pt x 165.61874pt>
+File: ./Images/dragon6.png Graphic file (type png)
+ <use ./Images/dragon6.png>
+Package pdftex.def Info: ./Images/dragon6.png used on input line 179.
+(pdftex.def)             Requested size: 182.68204pt x 165.61833pt.
+ <./Images/dragon7.png, id=30, 186.6975pt x 71.26625pt>
+File: ./Images/dragon7.png Graphic file (type png)
+ <use ./Images/dragon7.png>
+Package pdftex.def Info: ./Images/dragon7.png used on input line 189.
+(pdftex.def)             Requested size: 186.69704pt x 71.26605pt.
+ [5 <./Images/dragon5.png> <./Images/dragon6.png> <./Images/dragon7.png>] <./Images/dragon8.png, id=37, 188.705pt x 94.3525pt>
+File: ./Images/dragon8.png Graphic file (type png)
+ <use ./Images/dragon8.png>
+Package pdftex.def Info: ./Images/dragon8.png used on input line 194.
+(pdftex.def)             Requested size: 188.70453pt x 94.35225pt.
+ <./Images/dragon9.png, id=38, 185.69376pt x 117.43875pt>
+File: ./Images/dragon9.png Graphic file (type png)
+ <use ./Images/dragon9.png>
+Package pdftex.def Info: ./Images/dragon9.png used on input line 198.
+(pdftex.def)             Requested size: 185.6933pt x 117.43845pt.
+ <./Images/dragon10.png, id=39, 208.78pt x 141.52875pt>
+File: ./Images/dragon10.png Graphic file (type png)
+ <use ./Images/dragon10.png>
+Package pdftex.def Info: ./Images/dragon10.png used on input line 208.
+(pdftex.def)             Requested size: 167.0242pt x 113.22314pt.
+ [6 <./Images/dragon8.png> <./Images/dragon9.png> <./Images/dragon10.png>] <./Images/dragon11.png, id=46, 283.0575pt x 185.69376pt>
+File: ./Images/dragon11.png Graphic file (type png)
+ <use ./Images/dragon11.png>
+Package pdftex.def Info: ./Images/dragon11.png used on input line 213.
+(pdftex.def)             Requested size: 226.44629pt x 148.55519pt.
+ <./Images/dragon12.png, id=47, 208.78pt x 305.14pt>
+File: ./Images/dragon12.png Graphic file (type png)
+ <use ./Images/dragon12.png>
+Package pdftex.def Info: ./Images/dragon12.png used on input line 217.
+(pdftex.def)             Requested size: 167.0242pt x 244.11232pt.
+ <./Images/dragon13.png, id=48, 226.8475pt x 134.5025pt>
+File: ./Images/dragon13.png Graphic file (type png)
+ <use ./Images/dragon13.png>
+Package pdftex.def Info: ./Images/dragon13.png used on input line 221.
+(pdftex.def)             Requested size: 113.42346pt x 67.25107pt.
+ [7 <./Images/dragon11.png> <./Images/dragon12.png> <./Images/dragon13.png>] <./Images/dragon14.png, id=56, 291.0875pt x 244.915pt>
+File: ./Images/dragon14.png Graphic file (type png)
+ <use ./Images/dragon14.png>
+Package pdftex.def Info: ./Images/dragon14.png used on input line 226.
+(pdftex.def)             Requested size: 145.54338pt x 122.45718pt.
+ <./Images/dragon15.png, id=57, 287.0725pt x 287.0725pt>
+File: ./Images/dragon15.png Graphic file (type png)
+ <use ./Images/dragon15.png>
+Package pdftex.def Info: ./Images/dragon15.png used on input line 230.
+(pdftex.def)             Requested size: 143.53589pt x 143.53589pt.
+ [8 <./Images/dragon14.png> <./Images/dragon15.png>] (/Users/Chris/Desktop/KCCVancouver/Class/Week 1/.texpadtmp/Class 1 - Introduction to Coding.aux) ) 
+Here is how much of TeX's memory you used:
+ 2365 strings out of 493089
+ 34634 string characters out of 6134842
+ 199977 words of memory out of 5000000
+ 5828 multiletter control sequences out of 15000+600000
+ 6979 words of font info for 25 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 37i,10n,43p,260b,345s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
+Output written on "/Users/Chris/Desktop/KCCVancouver/Class/Week 1/.texpadtmp/Class 1 - Introduction to Coding.pdf" (8 pages, 341410 bytes).
+PDF statistics:
+ 78 PDF objects out of 1000 (max. 8388607)
+ 33 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 76 words of extra memory for PDF output out of 10000 (max. 10000000)
+
