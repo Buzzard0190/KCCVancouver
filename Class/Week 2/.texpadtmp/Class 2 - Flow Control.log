@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  19 MAR 2018 22:07
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  1 APR 2018 21:27
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**"Class 1 - Introduction to Coding.tex"
-(./Class 1 - Introduction to Coding.tex
+**"Class 2 - Flow Control.tex"
+(./Class 2 - Flow Control.tex
 LaTeX2e <2015/01/01>
 Babel <3.9l> and hyphenation patterns for 79 languages loaded.
 (/usr/local/texlive/2015/texmf-dist/tex/latex/base/article.cls
@@ -83,8 +83,8 @@ Package: lipsum 2014/07/27 v1.3 150 paragraphs of Lorem Ipsum dummy text
 \f@ncyO@erf=\skip49
 \f@ncyO@olf=\skip50
 \f@ncyO@orf=\skip51
-) (/Users/Chris/Desktop/KCCVancouver/Class/Week 1/.texpadtmp/Class 1 - Introduction to Coding.aux)
-\openout1 = `"Class 1 - Introduction to Coding.aux"'.
+) (/Users/Chris/Desktop/KCCVancouver/Class/Week 2/.texpadtmp/Class 2 - Flow Control.aux)
+\openout1 = `"Class 2 - Flow Control.aux"'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 24.
 LaTeX Font Info:    ... okay on input line 24.
@@ -189,24 +189,46 @@ File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 30.
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ô in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ô in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ô in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ô in font cmr12!
  [1
 
-{/usr/local/texlive/2015/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
-Missing character: There is no ¶ in font cmr12!
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
-Missing character: There is no ¶ in font cmr12!
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ñ in font cmr12!
-Missing character: There is no â in font cmr12!
+{/usr/local/texlive/2015/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] <./Images/image1.png, id=11, 264.99pt x 184.69pt>
+File: ./Images/image1.png Graphic file (type png)
+ <use ./Images/image1.png>
+Package pdftex.def Info: ./Images/image1.png used on input line 87.
+(pdftex.def)             Requested size: 132.49467pt x 92.34476pt.
+ <./Images/image2.png, id=13, 410.53375pt x 122.4575pt>
+File: ./Images/image2.png Graphic file (type png)
+ <use ./Images/image2.png>
+Package pdftex.def Info: ./Images/image2.png used on input line 91.
+(pdftex.def)             Requested size: 205.26637pt x 61.22859pt.
+ <./Images/image3.png, id=14, 483.8075pt x 359.3425pt>
+File: ./Images/image3.png Graphic file (type png)
+ <use ./Images/image3.png>
+Package pdftex.def Info: ./Images/image3.png used on input line 95.
+(pdftex.def)             Requested size: 241.90315pt x 179.6708pt.
 Missing character: There is no ‚ in font cmr12!
 Missing character: There is no Ä in font cmr12!
 Missing character: There is no ú in font cmr12!
 Missing character: There is no ‚ in font cmr12!
 Missing character: There is no Ä in font cmr12!
 Missing character: There is no ù in font cmr12!
+ <./Images/image4.png, id=15, 256.96pt x 176.66pt>
+File: ./Images/image4.png Graphic file (type png)
+ <use ./Images/image4.png>
+Package pdftex.def Info: ./Images/image4.png used on input line 99.
+(pdftex.def)             Requested size: 128.47968pt x 88.32977pt.
 
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -214,105 +236,113 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[2]
+[2 <./Images/image1.png> <./Images/image2.png> <./Images/image3.png>] <./Images/image5.png, id=22, 132.495pt x 92.345pt>
+File: ./Images/image5.png Graphic file (type png)
+ <use ./Images/image5.png>
+Package pdftex.def Info: ./Images/image5.png used on input line 108.
+(pdftex.def)             Requested size: 105.99612pt x 73.87608pt.
+ <./Images/image6.png, id=23, 133.49875pt x 129.48375pt>
+File: ./Images/image6.png Graphic file (type png)
+ <use ./Images/image6.png>
+Package pdftex.def Info: ./Images/image6.png used on input line 111.
+(pdftex.def)             Requested size: 106.79912pt x 103.58711pt.
 Missing character: There is no ‚ in font cmr12!
 Missing character: There is no Ä in font cmr12!
-Missing character: There is no ¶ in font cmr12!
+Missing character: There is no ú in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ù in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ú in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ù in font cmr12!
+ [3 <./Images/image4.png> <./Images/image5.png> <./Images/image6.png>]
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ú in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ù in font cmr12!
+ <./Images/image7.png, id=30, 380.42125pt x 137.51375pt>
+File: ./Images/image7.png Graphic file (type png)
+ <use ./Images/image7.png>
+Package pdftex.def Info: ./Images/image7.png used on input line 121.
+(pdftex.def)             Requested size: 228.2545pt x 82.50888pt.
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ú in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ù in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ú in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ù in font cmr12!
+ <./Images/image8.png, id=31, 381.425pt x 152.57pt>
+File: ./Images/image8.png Graphic file (type png)
+ <use ./Images/image8.png>
+Package pdftex.def Info: ./Images/image8.png used on input line 125.
+(pdftex.def)             Requested size: 228.85675pt x 91.5427pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 127--128
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 127--128
+
+ []
+
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ú in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ù in font cmr12!
 Missing character: There is no ‚ in font cmr12!
 Missing character: There is no Ä in font cmr12!
 Missing character: There is no ô in font cmr12!
- <./Images/dragon1.png, id=13, 193.72375pt x 101.37875pt>
-File: ./Images/dragon1.png Graphic file (type png)
- <use ./Images/dragon1.png>
-Package pdftex.def Info: ./Images/dragon1.png used on input line 151.
-(pdftex.def)             Requested size: 193.72327pt x 101.3785pt.
- [3 <./Images/dragon1.png>] <./Images/dragon2.png, id=19, 192.72pt x 122.4575pt>
-File: ./Images/dragon2.png Graphic file (type png)
- <use ./Images/dragon2.png>
-Package pdftex.def Info: ./Images/dragon2.png used on input line 156.
-(pdftex.def)             Requested size: 192.71951pt x 122.45718pt.
- <./Images/dragon3.png, id=20, 81.30376pt x 171.64125pt>
-File: ./Images/dragon3.png Graphic file (type png)
- <use ./Images/dragon3.png>
-Package pdftex.def Info: ./Images/dragon3.png used on input line 160.
-(pdftex.def)             Requested size: 81.30354pt x 171.64081pt.
 Missing character: There is no ‚ in font cmr12!
 Missing character: There is no Ä in font cmr12!
-Missing character: There is no ô in font cmr12!
- <./Images/dragon4.png, id=21, 146.5475pt x 102.3825pt>
-File: ./Images/dragon4.png Graphic file (type png)
- <use ./Images/dragon4.png>
-Package pdftex.def Info: ./Images/dragon4.png used on input line 170.
-(pdftex.def)             Requested size: 146.54712pt x 102.38225pt.
- [4 <./Images/dragon2.png> <./Images/dragon3.png> <./Images/dragon4.png>] <./Images/dragon5.png, id=28, 145.54375pt x 123.46124pt>
-File: ./Images/dragon5.png Graphic file (type png)
- <use ./Images/dragon5.png>
-Package pdftex.def Info: ./Images/dragon5.png used on input line 175.
-(pdftex.def)             Requested size: 145.54338pt x 123.46092pt.
- <./Images/dragon6.png, id=29, 182.6825pt x 165.61874pt>
-File: ./Images/dragon6.png Graphic file (type png)
- <use ./Images/dragon6.png>
-Package pdftex.def Info: ./Images/dragon6.png used on input line 179.
-(pdftex.def)             Requested size: 182.68204pt x 165.61833pt.
- <./Images/dragon7.png, id=30, 186.6975pt x 71.26625pt>
-File: ./Images/dragon7.png Graphic file (type png)
- <use ./Images/dragon7.png>
-Package pdftex.def Info: ./Images/dragon7.png used on input line 189.
-(pdftex.def)             Requested size: 186.69704pt x 71.26605pt.
- [5 <./Images/dragon5.png> <./Images/dragon6.png> <./Images/dragon7.png>] <./Images/dragon8.png, id=37, 188.705pt x 94.3525pt>
-File: ./Images/dragon8.png Graphic file (type png)
- <use ./Images/dragon8.png>
-Package pdftex.def Info: ./Images/dragon8.png used on input line 194.
-(pdftex.def)             Requested size: 188.70453pt x 94.35225pt.
- <./Images/dragon9.png, id=38, 185.69376pt x 117.43875pt>
-File: ./Images/dragon9.png Graphic file (type png)
- <use ./Images/dragon9.png>
-Package pdftex.def Info: ./Images/dragon9.png used on input line 198.
-(pdftex.def)             Requested size: 185.6933pt x 117.43845pt.
- <./Images/dragon10.png, id=39, 208.78pt x 141.52875pt>
-File: ./Images/dragon10.png Graphic file (type png)
- <use ./Images/dragon10.png>
-Package pdftex.def Info: ./Images/dragon10.png used on input line 208.
-(pdftex.def)             Requested size: 167.0242pt x 113.22314pt.
- [6 <./Images/dragon8.png> <./Images/dragon9.png> <./Images/dragon10.png>] <./Images/dragon11.png, id=46, 283.0575pt x 185.69376pt>
-File: ./Images/dragon11.png Graphic file (type png)
- <use ./Images/dragon11.png>
-Package pdftex.def Info: ./Images/dragon11.png used on input line 213.
-(pdftex.def)             Requested size: 226.44629pt x 148.55519pt.
- <./Images/dragon12.png, id=47, 208.78pt x 305.14pt>
-File: ./Images/dragon12.png Graphic file (type png)
- <use ./Images/dragon12.png>
-Package pdftex.def Info: ./Images/dragon12.png used on input line 217.
-(pdftex.def)             Requested size: 167.0242pt x 244.11232pt.
- <./Images/dragon13.png, id=48, 226.8475pt x 134.5025pt>
-File: ./Images/dragon13.png Graphic file (type png)
- <use ./Images/dragon13.png>
-Package pdftex.def Info: ./Images/dragon13.png used on input line 221.
-(pdftex.def)             Requested size: 113.42346pt x 67.25107pt.
- [7 <./Images/dragon11.png> <./Images/dragon12.png> <./Images/dragon13.png>] <./Images/dragon14.png, id=56, 291.0875pt x 244.915pt>
-File: ./Images/dragon14.png Graphic file (type png)
- <use ./Images/dragon14.png>
-Package pdftex.def Info: ./Images/dragon14.png used on input line 226.
-(pdftex.def)             Requested size: 145.54338pt x 122.45718pt.
- <./Images/dragon15.png, id=57, 287.0725pt x 287.0725pt>
-File: ./Images/dragon15.png Graphic file (type png)
- <use ./Images/dragon15.png>
-Package pdftex.def Info: ./Images/dragon15.png used on input line 230.
-(pdftex.def)             Requested size: 143.53589pt x 143.53589pt.
- [8 <./Images/dragon14.png> <./Images/dragon15.png>] (/Users/Chris/Desktop/KCCVancouver/Class/Week 1/.texpadtmp/Class 1 - Introduction to Coding.aux) ) 
+Missing character: There is no ú in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ù in font cmr12!
+<./Images/image9.png, id=32, 127.47626pt x 112.42pt>
+File: ./Images/image9.png Graphic file (type png)
+ <use ./Images/image9.png>
+Package pdftex.def Info: ./Images/image9.png used on input line 134.
+(pdftex.def)             Requested size: 101.98112pt x 89.93611pt.
+ [4 <./Images/image7.png> <./Images/image8.png> <./Images/image9.png>]
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ú in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ù in font cmr12!
+ <./Images/image10.png, id=39, 203.76125pt x 166.6225pt>
+File: ./Images/image10.png Graphic file (type png)
+ <use ./Images/image10.png>
+Package pdftex.def Info: ./Images/image10.png used on input line 142.
+(pdftex.def)             Requested size: 163.0092pt x 133.29817pt.
+ [5 <./Images/image10.png>] (/Users/Chris/Desktop/KCCVancouver/Class/Week 2/.texpadtmp/Class 2 - Flow Control.aux) ) 
 Here is how much of TeX's memory you used:
- 2365 strings out of 493089
- 34634 string characters out of 6134842
- 199977 words of memory out of 5000000
- 5828 multiletter control sequences out of 15000+600000
- 6979 words of font info for 25 fonts, out of 8000000 for 9000
+ 2342 strings out of 493089
+ 33943 string characters out of 6134842
+ 197977 words of memory out of 5000000
+ 5809 multiletter control sequences out of 15000+600000
+ 7338 words of font info for 26 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 37i,10n,43p,260b,345s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on "/Users/Chris/Desktop/KCCVancouver/Class/Week 1/.texpadtmp/Class 1 - Introduction to Coding.pdf" (8 pages, 291482 bytes).
+ 37i,10n,43p,250b,355s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmbxti10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
+Output written on "/Users/Chris/Desktop/KCCVancouver/Class/Week 2/.texpadtmp/Class 2 - Flow Control.pdf" (5 pages, 231175 bytes).
 PDF statistics:
- 78 PDF objects out of 1000 (max. 8388607)
- 33 compressed objects within 1 object stream
+ 61 PDF objects out of 1000 (max. 8388607)
+ 28 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 76 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 51 words of extra memory for PDF output out of 10000 (max. 10000000)
 
