@@ -1,0 +1,48 @@
+
+
+============================= What I want them to learn ================================
+
+The "say command" 
+	how its like "Print()" or out in myphon and Java.
+	Its a very powerful function, not just for saying jokes
+		It can be used for error logging, debuging.
+
+Wait until action:
+	Needed so it doesnt loop all forever, it waits until your command.
+		ASK THEM WHAT OTHER ACTIONS CAN BE PUT IN WAIT
+
+Variables:
+	Thay are used ALL THE TIME in coding
+	can assiggn a name to a value, that value can be changed.
+
+========================= What to add to the challenge: =====================================
+
+Add backdrop
+
+Make the sprite move
+
+Make it dance (need to create another sprite)
+
+
+
+=========================== What you will need with this challenge: ================================
+
+say command
+
+wait until action
+
+variable(s)
+
+pick random
+
+
+
+
+===============================================   CHALLENGE:   ==================================
+
+Have scratch pick a random number. Your goal is to find that random number. With Gobo helping saying if your number is too high or low.
+
+Make him an "Eight Ball" so you ask it a question to which it will answer with a responce that you indicate (Be nice,nothing mean)
+
+
+
